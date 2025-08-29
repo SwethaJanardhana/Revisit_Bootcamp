@@ -1,0 +1,11 @@
+button{
+    border: 1rem;
+    background-color: green;
+    padding: 1rem;
+    border-radius: 2rem;
+    
+}
+
+.toggle-class{
+    background-color: aqua;
+}
